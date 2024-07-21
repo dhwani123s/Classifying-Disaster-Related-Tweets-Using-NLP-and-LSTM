@@ -17,9 +17,6 @@ Skills Developed:
 
 ### Technology Used
 
-- **Programming Language**: 
-  - Python
-
 - **Libraries and Frameworks**:
   - **NLP and Text Processing**: 
     - NLTK: For natural language processing tasks such as tokenization and lemmatization.
